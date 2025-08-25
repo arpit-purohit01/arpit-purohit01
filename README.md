@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **arpitpurohit127@gmail.com** For Collaboration/Project/Hac
 
 
 
-- 🔭 **I’m currently working on:** Enter your project info here
+- 🔭 **I’m currently working on:** BlockChain, DApp and Decentralization 
 - 🌱 **I’m currently learning:** Ethereum Stack
 - 👯 **I’m looking to collaborate :** Hackathons and Coding Event 
 - 🤔 **I’m looking for help with:** Mentor and BlockChain contributer
